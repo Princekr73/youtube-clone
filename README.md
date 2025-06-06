@@ -1,4 +1,4 @@
-## Projects Deployed linke
+## Projects Deployed link
 
 https://fanciful-kitsune-e6978f.netlify.app/
 
